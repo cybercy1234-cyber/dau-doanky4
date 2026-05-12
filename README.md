@@ -155,6 +155,7 @@
 | [0013-roman-to-integer](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1103-distribute-candies-to-people) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1518-water-bottles) |
 ## Queue
@@ -178,5 +179,6 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0495-teemo-attacking) |
+| [1103-distribute-candies-to-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
