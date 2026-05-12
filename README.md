@@ -34,11 +34,13 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0455-assign-cookies](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## String
 |  |
