@@ -33,6 +33,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
