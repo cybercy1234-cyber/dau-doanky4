@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
