@@ -14,6 +14,7 @@
 | [0454-4sum-ii](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0724-find-pivot-index) |
@@ -144,4 +145,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
