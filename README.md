@@ -22,6 +22,7 @@
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0454-4sum-ii](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0389-find-the-difference](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
