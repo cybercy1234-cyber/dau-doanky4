@@ -57,6 +57,7 @@
 | [1436-destination-city](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -94,6 +95,7 @@
 | [1556-thousand-separator](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1773-count-items-matching-a-rule) |
+| [1796-second-largest-digit-in-a-string](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
