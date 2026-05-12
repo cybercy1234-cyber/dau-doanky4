@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1089-duplicate-zeros) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0013-roman-to-integer](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0412-fizz-buzz) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Queue
 |  |
 | ------- |
