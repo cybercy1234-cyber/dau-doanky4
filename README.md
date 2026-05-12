@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0860-lemonade-change) |
 ## Merge Sort
 |  |
 | ------- |
