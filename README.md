@@ -77,6 +77,7 @@
 | [0771-jewels-and-stones](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1436-destination-city) |
+| [1556-thousand-separator](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/1556-thousand-separator) |
 ## Divide and Conquer
 |  |
 | ------- |
