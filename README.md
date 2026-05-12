@@ -40,6 +40,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/cybercy1234-cyber/dau-doanky4/tree/master/2418-sort-the-people) |
 ## String
 |  |
